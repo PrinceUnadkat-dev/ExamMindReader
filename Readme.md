@@ -37,9 +37,12 @@ Live Demo: [Click here to try it](https://princeunadkat-dev.github.io/ExamMindRe
 
 ```
 ExamMindReader/
-├── index.html
-├── style.css
-├── script.js
+├── index.html             # Main HTML file
+├── style.css              # Styling (custom UI design)
+├── script.js              # JavaScript logic (tip generation & interactivity)
+├── Readme.md              # Project documentation
+├── package.json           # Project metadata and dependencies
+├── package-lock.json      # Dependency lock file
 ```
 
 Made with ❤️ by [Prince Unadkat](https://github.com/PrinceUnadkat-dev)
